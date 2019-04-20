@@ -1,5 +1,6 @@
 ## Improve your Python by fixing errors
 
+
 We present small code samples that have errors in them. Initially, there is only one error and it is relatively easy to spot. As we move up challenges, there are multiple errors and subtle bugs. 
 
 ### Why do this at all?
